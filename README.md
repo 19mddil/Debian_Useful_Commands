@@ -6,6 +6,6 @@
   <main>
     <article>
       <h2>Installing New Software</h2>
-      <p><code>sudo apt-get install &lb;file-name&gt; </code></p>
+      <p><code>sudo apt-get install &lt; file-name &gt; </code></p>
     </article>
 <body>
